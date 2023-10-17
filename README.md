@@ -1,6 +1,3 @@
-# Data-Structures-Project-in-C-Programming-Language-Using-BST
-
-
 # Student Management System (SMS) using Binary Search Tree (BST)
 
 In the present-day educational environment, the adept administration of student information assumes paramount significance for educational institutions. Conventional data management systems routinely grapple with formidable obstacles concerning the systematic organization, storage, and retrieval of substantial student data repositories. To confront and surmount these challenges, this undertaking advances the conception of a sophisticated Student Management System underpinned by the Binary Search Tree (BST) data structure. The amalgamation of BST is expressly engineered to optimize the spectrum of data management operations while expediting streamlined accessibility to student records. This initiative unfolds a comprehensive exploration encompassing the conceptualization, execution, and array of functionalities intrinsic to the SIMS. It conspicuously accentuates the transformative potential of this system in the realm of student information governance within educational establishments.
